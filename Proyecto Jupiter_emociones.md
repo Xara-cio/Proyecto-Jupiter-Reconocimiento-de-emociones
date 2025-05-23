@@ -106,6 +106,35 @@ Una solución de IA Generativa con dos funcionalidades principales, apoyadas en 
 
 ---
 
+## 7. 🛠️ Herramientas y Tecnologías Utilizadas
+
+Las principales herramientas y tecnologías empleadas en el desarrollo de este proyecto incluyen:
+
+* **Lenguajes de Programación:**
+    * Python
+
+* **Bases de Datos y Modelado:**
+    * Sistemas de Bases de Datos Relacionales (para modelo de datos): MySQL
+
+* **Machine Learning y Deep Learning:**
+    * Bibliotecas de Machine Learning (ej. Scikit-learn para KNN, Random Forest, XGBoost)
+    * TensorFlow / Keras (para modelos CNN y Deep Learning)
+    * MobileNetV2
+    * ResNet50
+
+* **Inteligencia Artificial Generativa:**
+    * GPT-4o (para el sistema conversacional y generación de contenido en RRSS)
+
+* **Visualización y Business Intelligence:**
+    * Power BI (para Dashboards PBI)
+
+* **Control de Versiones:**
+    * Git
+    * GitHub
+    * Git LFS (Large File Storage)
+
+---
+
 ## 🔗 Acceso al Proyecto
 
 * **Repositorio GitHub:** [https://github.com/Xara-cio/Proyecto-Jupiter-Reconocimiento-de-emociones](https://github.com/Xara-cio/Proyecto-Jupiter-Reconocimiento-de-emociones)
