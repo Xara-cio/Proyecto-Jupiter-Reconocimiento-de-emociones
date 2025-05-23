@@ -38,8 +38,7 @@ Diseño de una base de datos relacional a partir de seis CSV (`entradas`, `atrac
 
 La tabla central es **`emoción`** (`t_id` como PK), con `t_id` como FK en el resto de tablas. Se incorporó una clave primaria interna autoincremental (`*_id`) para unicidad y trazabilidad. La arquitectura permite consultas eficientes y la conexión Python automatiza análisis avanzados.
 
-*(Aquí es un excelente lugar para insertar la imagen de tu **Diagrama Entidad-Relación (E-R)**. Asegúrate de que la imagen esté en tu repositorio y usa una ruta relativa:)*
-`![Diagrama Entidad-Relación](C:\Users\User\Documentos\Pontia Máster\Proyecto Júpiter\Proyecto Júpiter Emociones\Proyecto Júpiter Emociones\Diagrama_ER.jpg)`
+*(Veáse imagen Diagrama en Informe , archivo word subido a la plataforma Pontia como entregable)*
 
 ---
 
